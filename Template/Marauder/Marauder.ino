@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "Gaming Network";
-const char* password = "Wherewedropping?";
+const char* ssid = "Portal";
+const char* password = "Password";
 
 WebServer server(80);
 
